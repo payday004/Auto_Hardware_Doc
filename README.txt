@@ -9,11 +9,11 @@ PREREQ:
 
 	-pip packages "openpyxl" and "docx-mailmerge" installed
 
-	-properly formated "input.xlsx" file
+	-properly formatted "input.xlsx" file
 		-first line of data starts on row 3
 		-data columns range from column B to F
 
-	-properly formated "form.docx" file with mailmerge fields
+	-properly formatted "form.docx" file with mailmerge fields
 		-NAME
 		-DATE
 		-ASSET
